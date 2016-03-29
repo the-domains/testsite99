@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[testsite99]]></title>
         <description><![CDATA[testsite99]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/testsite99/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Mar 2016 16:36:38 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 29 Mar 2016 16:43:01 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/testsite99/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9548a81f-5fad-414a-baf2-df0f24531047.jpg">]]></description>
+            <link>https://thegrid.ai/testsite99/9dce007c-756f-4630-a078-65e842fad630/index.html</link>
+            <guid isPermaLink="false">9dce007c-756f-4630-a078-65e842fad630</guid>
+            <pubDate>Tue, 29 Mar 2016 16:42:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>
@@ -21,7 +28,7 @@ sapien. In hac habitasse platea dictumst. Phasellus pharetra convallis
 turpis tempus dictum. Cras sed neque sagittis, porttitor purus nec, 
 rhoncus nisl.
 </p>]]></description>
-            <link>undefined81581260-e62e-421e-9466-a1022a9938e2/index.html</link>
+            <link>https://thegrid.ai/testsite99/81581260-e62e-421e-9466-a1022a9938e2/index.html</link>
             <guid isPermaLink="false">81581260-e62e-421e-9466-a1022a9938e2</guid>
             <pubDate>Tue, 29 Mar 2016 16:36:20 GMT</pubDate>
         </item>
