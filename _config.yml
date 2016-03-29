@@ -2,6 +2,7 @@ name: testsite99
 favicon: null
 layout_spectrum: 0.32677055010572076
 typography_spectrum: 0.7251825691200793
+title: "Gino's Food Delights"
 cta:
   domain: null
   bucket: null
