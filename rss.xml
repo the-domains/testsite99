@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[testsite99]]></title>
+        <description><![CDATA[testsite99]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 29 Mar 2016 16:36:38 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. In libero nunc,
+ euismod at mattis vitae, condimentum id leo. Nulla finibus, ante eget 
+blandit aliquam, odio mauris porttitor tortor, ac euismod arcu mi at 
+diam. Maecenas sed nisl congue, tincidunt mi vel, interdum orci. Sed 
+ornare pellentesque mauris vel egestas. Nunc nibh ligula, vulputate 
+laoreet sagittis eu, lobortis quis sem. Integer sollicitudin, orci a 
+ullamcorper semper, quam orci tincidunt risus, ac aliquam nulla sapien 
+sed orci. Cras augue ligula, rutrum vel velit eu, blandit pulvinar 
+sapien. In hac habitasse platea dictumst. Phasellus pharetra convallis 
+turpis tempus dictum. Cras sed neque sagittis, porttitor purus nec, 
+rhoncus nisl.
+</p>]]></description>
+            <link>undefined81581260-e62e-421e-9466-a1022a9938e2/index.html</link>
+            <guid isPermaLink="false">81581260-e62e-421e-9466-a1022a9938e2</guid>
+            <pubDate>Tue, 29 Mar 2016 16:36:20 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
