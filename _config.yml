@@ -1,20 +1,4 @@
-name: testsite99
-favicon: null
-layout_spectrum: 0.26443
 typography_spectrum: 0.24789
-title: "Gino's Food Delights"
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#02070b'
@@ -26,4 +10,24 @@ color:
   lightness: 0.25
   saturation: 0.6875
   rhythmicContrast: 0.6811087776441127
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.26443
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: testsite99
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: testlink
+    id: 81581260-e62e-421e-9466-a1022a9938e2
+    type: content
+favicon: null
+title: Gino's Food Delights
 purpose: []
